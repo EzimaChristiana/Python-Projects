@@ -1,9 +1,9 @@
 # Python-Projects
-Analysis of CO2 Emissions, Population Growth, and GDP in Nigeria
+**Analysis of CO2 Emissions, Population Growth, and GDP in Nigeria**
 
 This project explores the relationship between CO2 emissions, population growth, and GDP in Nigeria using publicly available datasets. The analysis aims to provide insights into how these factors are interconnected and their implications for Nigeria’s sustainable development.
 
-Table of Contents
+**Table of Contents**
 	•	Introduction
 	•	Dataset
 	•	Features of the Analysis
@@ -13,14 +13,14 @@ Table of Contents
 	•	Contributions
 	•	License
 
-Introduction
+**Introduction**
 
 Climate change and economic development are critical topics worldwide, especially for developing countries like Nigeria. This project focuses on analyzing:
 	•	Nigeria’s CO2 emission trends.
 	•	The impact of population growth on emissions.
 	•	The correlation between GDP and CO2 emissions.
 
-Dataset
+**Dataset**
 
 The data was sourced from:
 	•	Our World in Data (OWID)
@@ -31,19 +31,19 @@ Key variables include:
 	•	Population 
 	•	GDP 
 
-Features of the Analysis
+**Features of the Analysis**
 	•	Time-series analysis of CO2 emissions.
 	•	Trend comparison between population growth and CO2 emissions.
 	•	Correlation analysis of GDP growth and CO2 emissions.
 	•	Visualizations using Python libraries.
 
-Technologies Used
+**Technologies Used**
 	•	Python: For data analysis and visualization.
 	•	Pandas: Data manipulation and preprocessing.
 	•	Matplotlib/Seaborn: Visualization.
 	•	Jupyter Notebook: Interactive analysis.
 
-Installation and Usage
+******Installation and Usage**
 	1.	Clone the repository:
 
 git clone https://github.com/yourusername/analysis-co2-emissions-nigeria.git
@@ -65,14 +65,14 @@ jupyter notebook carbon_emission_owid.ipynb
 
 
 
-Results and Visualizations
+**Results and Visualizations**
 
 The analysis provides:
 	•	Graphs showing the trend of CO2 emissions over time.
 	•	Insights into how population and GDP influence emissions.
 	•	Policy implications for sustainable growth in Nigeria.
 
-Contributions
+**Contributions**
 
 Contributions are welcome! If you’d like to contribute:
 	1.	Fork the repository.
@@ -81,7 +81,7 @@ Contributions are welcome! If you’d like to contribute:
 	4.	Push to the branch (git push origin feature-name).
 	5.	Open a Pull Request.
 
-License
+**License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
